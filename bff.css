@@ -1,0 +1,21 @@
+.find-your-fees {
+  margin-bottom: 100;
+}
+
+.demo {
+}
+
+.recent-box {
+  height: 35rem;
+  width: 35rem;
+  background-color: coral;
+  border-radius: 2rem;
+}
+
+#total-bank-fees-found {
+  background-color: blue;
+}
+
+#bank-fees-by-the-numbers {
+  background-color: red;
+}
